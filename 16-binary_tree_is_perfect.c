@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
-* tree_is_perfect - checks if a tree is perfect 
+* tree_is_perfect - checks if a tree is perfect
 * @tree: pointer to the root node
 * Return: 0
 */
